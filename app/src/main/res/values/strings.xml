@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Shoe Store</string>
+    <string name="login_title">Authorization</string>
+    <string name="welcome_title">Welcome to Shoe Store!</string>
+    <string name="instruction_title">Instruction</string>
+    <string name="detail_title">Product detail</string>
+    <string name="error_email_empty">Email can not be empty</string>
+    <string name="error_password_empty">Password can not be empty</string>
+    <string name="error_name_empty">Name can not be empty</string>
+    <string name="error_size_empty">Size can not be empty</string>
+    <string name="error_company_empty">Company can not be empty</string>
+    <string name="error_description_empty">Description can not be empty</string>
+    <string name="login_header">Login</string>
+    <string name="welcome_header">Welcome</string>
+    <string name="instruction_header">Instructions</string>
+    <string name="list_header">Product List</string>
+    <string name="detail_header">Product Detail</string>
+    <string name="label_email_login">email:</string>
+    <string name="label_password_login">password:</string>
+    <string name="label_button_create_account">Register now</string>
+    <string name="label_button_sign_in">Sign in</string>
+    <string name="hint_email_login">Email</string>
+    <string name="hint_password_login">Password</string>
+    <string name="error_login_short">Login too short</string>
+    <string name="welcome_text_first">Made for stylish shopping, made for you.\n\nFounded in 2008, Stylight is the world\'s leading online search platform for Fashion, Beauty and Design. We help online shoppers in 16 countries worldwide search more than 1,300 online shops at once, compare prices of more than 27 million products, get inspired and find all the best deals.</string>
+    <string name="welcome_text_second">We’re not a shop\n\nWe are not an online shop, and we don\'t sell products. We are an inspiration and online search platform that allows shoppers to price compare products and proceed with their order with one easy click. More than a search engine, the Stylight online magazine offers the best in beauty, fashion, and home - living inspiration. If you have questions concerning an order, please contact the respective online shop directly.</string>
+    <string name="label_button_continue">Continue</string>
+    <string name="instruction_text">1. Click the Go To Product List button below to navigate to the list of widgets.\n\n
+        2. Scroll through the list of widgets that contains the widget\'s name, size, manufacturer, and b brief description.\n\n
+        3. Click the floating button at the bottom of the screen to make a new widget entry.\n\n
+        4. Once all of the information for the new widget has been entered, click the Add New Widget button at the bottom to add it to the list (or click the Cancel button at any time). </string>
+    <string name="label_button_view_products">Product List</string>
+    <string name="logout">Logout</string>
+    <string name="content_fab">Add</string>
+    <string name="content_icon">Show Icon</string>
+    <string name="label_product_name">Name:</string>
+    <string name="label_product_manufacturer">Manufacturer:</string>
+    <string name="label_product_size">Size:</string>
+    <string name="label_product_description">Description:</string>
+    <string name="label_button_add_product">Add</string>
+    <string name="label_button_cancel">Cancel</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_company">Company</string>
+    <string name="hint_size">Size</string>
+    <string name="label_product_made">Made By:</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_x_large">24sp</dimen>
+    <dimen name="text_layout_margin">16dp</dimen>
+    <dimen name="layout_margin_small">12dp</dimen>
+    <dimen name="layout_margin_medium">16dp</dimen>
+    <dimen name="layout_margin_large">20dp</dimen>
+    <dimen name="layout_margin_extralarge">24dp</dimen>
+    <dimen name="max_image_height">100dp</dimen>
+    <dimen name="max_image_width">100dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="padding">16dp</dimen>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:background="@color/primaryBackground"
+        tools:context=".screens.common.WelcomeFragment">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:tag="layout/welcome_fragment">
+
+            <TextView
+                android:id="@+id/welcomeTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/welcome_title"
+                android:textStyle="normal|bold"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:textSize="@dimen/text_size_large"
+                android:textColor="@color/primaryText"/>
+
+            <TextView
+                android:id="@+id/welcomeTextFirst"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_layout_margin"
+                android:text="@string/welcome_text_first"
+                android:textSize="@dimen/text_size_medium"
+                android:textColor="@color/primaryText"/>
+
+            <TextView
+                android:id="@+id/welcomeTextSecond"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/text_layout_margin"
+                android:text="@string/welcome_text_second"
+                android:textColor="@color/primaryText"
+                android:textSize="@dimen/text_size_medium" />
+
+            <Button
+                android:id="@+id/buttonContinue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="32dp"
+                android:background="@color/primaryButton"
+                android:text="@string/label_button_continue"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </ScrollView>
+</layout>
